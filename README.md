@@ -1,5 +1,7 @@
 #访问协议
-https://github.com/huang8800486/hello-wrold
+https://github.com/huang8800486/navigaterBar
+
+#
 1.css的hover事件
 2.url事件(或者click事件),激活当前项
 3.第一导航与第二导航的移入移出事件（可以通过left,top值来显示，也可以变化宽度，高宽来显示）
