@@ -1,0 +1,45 @@
+<div class="navigater_bar">
+    <div class="nav_top_box">
+        <div class="wrap">
+            <a href="#web1" class="topNavBtns"><i></i><em>首页</em></a>
+            <a href="#web2" class="topNavBtns secondBtn"><i></i><em>主题旅游网站开发</em><b></b></a>
+            <a href="#web3" class="topNavBtns secondBtn"><i></i><em>手持应用开发</em><b></b></a>
+            <a href="#web4" class="topNavBtns"><i></i><em>年运营服务</em></a>
+            <a href="#web5" class="topNavBtns secondBtn"><i></i><em>案例</em><b></b></a>
+            <a href="#web6" class="topNavBtns"><i></i><em>答疑</em></a>
+            <a href="#web7" class="topNavBtns secondBtn"><i></i><em>新闻</em><b></b></a>
+            <a href="#web8" class="topNavBtns"><i></i><em>关于</em></a>
+            <a href="#web9" class="topNavBtns"><i></i><em>联系</em></a>
+        </div>
+    </div>
+    <div class="nav_bottom_box">
+        <div class="wrap">
+            <div class="nav_list_menu">
+                <ul>
+                    <li class="nav_list_page">
+                        <a href="/tourism/index.shtml#web01">综合度假</a>
+                        <a href="/tourism/index.shtml#web02">主题公园</a>
+                        <a href="/tourism/index.shtml#web03">演艺</a>
+                        <a href="/tourism/index.shtml#web04">酒店</a>
+                        <a href="/tourism/index.shtml#web05">电子商务</a>
+                    </li>
+                    <li class="nav_list_phone">
+                        <a href="/mobile/index.shtml#web01">手机微网站</a>
+                        <a href="/mobile/index.shtml#web02">智慧旅游APP</a>
+                        <a href="/mobile/index.shtml#web03">微信平台开发</a>
+                        <a href="/mobile/index.shtml#web04">微信应用</a>
+                        <a href="/mobile/index.shtml#web05">H5微活动</a>
+                    </li>
+                    <li class="nav_list_case">
+                        <a href="/case/index.aspx#menu">案例</a>
+                        <a href="/case/client.shtml#menu">知名客户</a>
+                    </li>
+                    <li class="nav_list_news">
+                        <a href="/news/index.aspx#menu">互动力新闻</a>
+                        <a href="/news/business.aspx#menu">行业研究</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
